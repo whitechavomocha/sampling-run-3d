@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bee81af78330a6443a72362fd8a5e47c, type: 3}
+  m_Name: LevelAsset
+  m_EditorClassIdentifier: 
+  levelPrefabs:
+  - {fileID: 2059914282384234302, guid: 49c30573a993ebe43a8e596106ca7663, type: 3}
+  - {fileID: 3562339944766999021, guid: c38a62b8a4f5bc84ca60a5380ae40cda, type: 3}
+  - {fileID: 7572407581733350524, guid: f9250fb06745a7744adc3c550eafcde2, type: 3}
+  - {fileID: 3188713672174082951, guid: 33f24fcdc9bfbab4c93110c9abf2ab57, type: 3}
+  - {fileID: 5537021682228187376, guid: 40176c0f5babd0c48b4be509304254a0, type: 3}
+  particles:
+  - {fileID: 185744, guid: b88a52d0de3924c4db6011de30ecccd0, type: 3}
+  confetti: {fileID: 165102, guid: 4de72d65c2293424cbe6461a89fe2997, type: 3}
+  emojis:
+  - {fileID: 173990, guid: 2c854da3d3323e84992350844d0a414f, type: 3}
+  - {fileID: 108838, guid: 967df77e9ca0dfa4192a6edfe3d62105, type: 3}
+  - {fileID: 153914, guid: 11037b43863df3f439ebecb6afa078cc, type: 3}
+  - {fileID: 120732, guid: edee1a0796ddf384dbdded6eaf9f6e16, type: 3}
+  - {fileID: 180048, guid: 69e48e1c675e2c242b251e936ea4bfd9, type: 3}
+  - {fileID: 185686, guid: c092410d00d261e48a1cd3ad7a6d25b2, type: 3}
+  - {fileID: 110490, guid: 7574cc52c587b4c4f97e1c9c37b54d9f, type: 3}
+  - {fileID: 138276, guid: 2b55b1393b972d846831c95e4e201940, type: 3}
+  - {fileID: 191538, guid: 920b93f4e839e2742872d7a6be942e32, type: 3}
+  - {fileID: 169426, guid: 3c96c7bd5735bb24098d4c6f6dc905c1, type: 3}
